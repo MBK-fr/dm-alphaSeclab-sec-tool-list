@@ -217,6 +217,7 @@
 - [**6265**星][5m] [Java] [droidpluginteam/droidplugin](https://github.com/droidpluginteam/droidplugin) android上的插件框架，运行任何第三方apk，无需安装、修改或重新打包
 - [**6262**星][10d] [C++] [dolphin-emu/dolphin](https://github.com/dolphin-emu/dolphin) 一个GameCube / Wii模拟器，可以让你在PC上玩这两个平台的游戏。
 - [**6260**星][10d] [ObjC] [johnno1962/injectionforxcode](https://github.com/johnno1962/injectionforxcode) Runtime Code Injection for Objective-C & Swift
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source (GPLv3) autonomous penetration testing platform. 50 specialist agents over MCP, 80+ offensive tools, proof of exploitation on every finding, runs locally.
 - [**6252**星][6m] [Py] [s0md3v/photon](https://github.com/s0md3v/Photon) 用于OSINT的超快速爬虫，爬取时提取以下信息：URL、文件、邮件、社交账户、Amazon Bucket、密钥、JS文件与终端、符合自定义正则的字符串、子域名、DNS相关数据
 - [**6246**星][10d] [Py] [schollz/howmanypeoplearearound](https://github.com/schollz/howmanypeoplearearound) 监控 Wifi 信号统计你周围的人数
 - [**6244**星][10d] [JS] [mgechev/javascript-algorithms](https://github.com/mgechev/javascript-algorithms) 
